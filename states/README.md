@@ -70,7 +70,3 @@ If you have any updates or corrections to this data, feel free to fork the repos
 This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for more details.
 
 ---
-
-```
-
-```
