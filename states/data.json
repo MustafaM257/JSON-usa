@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "Alabama",
+    "postal_abbreviation": "AL",
+    "capital": "Montgomery",
+    "largest_city": "Huntsville",
+    "ratification_or_admission": "Dec 14, 1819",
+    "representatives": 7
+  },
+  {
+    "id": 2,
+    "name": "Alaska",
+    "postal_abbreviation": "AK",
+    "capital": "Juneau",
+    "largest_city": "Anchorage",
+    "ratification_or_admission": "Jan 3, 1959",
+    "representatives": 1
+  },
+  {
+    "id": 3,
+    "name": "Arizona",
+    "postal_abbreviation": "AZ",
+    "capital": "Phoenix",
+    "largest_city": "Phoenix",
+    "ratification_or_admission": "Feb 14, 1912",
+    "representatives": 9
+  },
+  {
+    "id": 4,
+    "name": "Arkansas",
+    "postal_abbreviation": "AR",
+    "capital": "Little Rock",
+    "largest_city": "Little Rock",
+    "ratification_or_admission": "Jun 15, 1836",
+    "representatives": 4
+  },
+  {
+    "id": 5,
+    "name": "California",
+    "postal_abbreviation": "CA",
+    "capital": "Sacramento",
+    "largest_city": "Los Angeles",
+    "ratification_or_admission": "Sep 9, 1850",
+    "representatives": 52
+  },
+  {
+    "id": 6,
+    "name": "Colorado",
+    "postal_abbreviation": "CO",
+    "capital": "Denver",
+    "largest_city": "Denver",
+    "ratification_or_admission": "Aug 1, 1876",
+    "representatives": 8
+  },
+  {
+    "id": 7,
+    "name": "Connecticut",
+    "postal_abbreviation": "CT",
+    "capital": "Hartford",
+    "largest_city": "Bridgeport",
+    "ratification_or_admission": "Jan 9, 1788",
+    "representatives": 5
+  },
+  {
+    "id": 8,
+    "name": "Delaware",
+    "postal_abbreviation": "DE",
+    "capital": "Dover",
+    "largest_city": "Wilmington",
+    "ratification_or_admission": "Dec 7, 1787",
+    "representatives": 1
+  },
+  {
+    "id": 9,
+    "name": "Florida",
+    "postal_abbreviation": "FL",
+    "capital": "Tallahassee",
+    "largest_city": "Jacksonville",
+    "ratification_or_admission": "Mar 3, 1845",
+    "representatives": 28
+  },
+  {
+    "id": 10,
+    "name": "Georgia",
+    "postal_abbreviation": "GA",
+    "capital": "Atlanta",
+    "largest_city": "Atlanta",
+    "ratification_or_admission": "Jan 2, 1788",
+    "representatives": 14
+  },
+  {
+    "id": 11,
+    "name": "Hawaii",
+    "postal_abbreviation": "HI",
+    "capital": "Honolulu",
+    "largest_city": "Honolulu",
+    "ratification_or_admission": "Aug 21, 1959",
+    "representatives": 2
+  },
+  {
+    "id": 12,
+    "name": "Idaho",
+    "postal_abbreviation": "ID",
+    "capital": "Boise",
+    "largest_city": "Boise",
+    "ratification_or_admission": "Jul 3, 1890",
+    "representatives": 2
+  },
+  {
+    "id": 13,
+    "name": "Illinois",
+    "postal_abbreviation": "IL",
+    "capital": "Springfield",
+    "largest_city": "Chicago",
+    "ratification_or_admission": "Dec 3, 1818",
+    "representatives": 17
+  },
+  {
+    "id": 14,
+    "name": "Indiana",
+    "postal_abbreviation": "IN",
+    "capital": "Indianapolis",
+    "largest_city": "Indianapolis",
+    "ratification_or_admission": "Dec 11, 1816",
+    "representatives": 9
+  },
+  {
+    "id": 15,
+    "name": "Iowa",
+    "postal_abbreviation": "IA",
+    "capital": "Des Moines",
+    "largest_city": "Des Moines",
+    "ratification_or_admission": "Dec 28, 1846",
+    "representatives": 4
+  },
+  {
+    "id": 16,
+    "name": "Kansas",
+    "postal_abbreviation": "KS",
+    "capital": "Topeka",
+    "largest_city": "Wichita",
+    "ratification_or_admission": "Jan 29, 1861",
+    "representatives": 4
+  },
+  {
+    "id": 17,
+    "name": "Kentucky",
+    "postal_abbreviation": "KY",
+    "capital": "Frankfort",
+    "largest_city": "Louisville",
+    "ratification_or_admission": "Jun 1, 1792",
+    "representatives": 6
+  },
+  {
+    "id": 18,
+    "name": "Louisiana",
+    "postal_abbreviation": "LA",
+    "capital": "Baton Rouge",
+    "largest_city": "New Orleans",
+    "ratification_or_admission": "Apr 30, 1812",
+    "representatives": 6
+  },
+  {
+    "id": 19,
+    "name": "Maine",
+    "postal_abbreviation": "ME",
+    "capital": "Augusta",
+    "largest_city": "Portland",
+    "ratification_or_admission": "Mar 15, 1820",
+    "representatives": 2
+  },
+  {
+    "id": 20,
+    "name": "Maryland",
+    "postal_abbreviation": "MD",
+    "capital": "Annapolis",
+    "largest_city": "Baltimore",
+    "ratification_or_admission": "Apr 28, 1788",
+    "representatives": 8
+  },
+  {
+    "id": 21,
+    "name": "Massachusetts",
+    "postal_abbreviation": "MA",
+    "capital": "Boston",
+    "largest_city": "Boston",
+    "ratification_or_admission": "Feb 6, 1788",
+    "representatives": 9
+  },
+  {
+    "id": 22,
+    "name": "Michigan",
+    "postal_abbreviation": "MI",
+    "capital": "Lansing",
+    "largest_city": "Detroit",
+    "ratification_or_admission": "Jan 26, 1837",
+    "representatives": 13
+  },
+  {
+    "id": 23,
+    "name": "Minnesota",
+    "postal_abbreviation": "MN",
+    "capital": "Saint Paul",
+    "largest_city": "Minneapolis",
+    "ratification_or_admission": "May 11, 1858",
+    "representatives": 8
+  },
+  {
+    "id": 24,
+    "name": "Mississippi",
+    "postal_abbreviation": "MS",
+    "capital": "Jackson",
+    "largest_city": "Jackson",
+    "ratification_or_admission": "Dec 10, 1817",
+    "representatives": 4
+  },
+  {
+    "id": 25,
+    "name": "Missouri",
+    "postal_abbreviation": "MO",
+    "capital": "Jefferson City",
+    "largest_city": "Kansas City",
+    "ratification_or_admission": "Aug 10, 1821",
+    "representatives": 8
+  },
+  {
+    "id": 26,
+    "name": "Montana",
+    "postal_abbreviation": "MT",
+    "capital": "Helena",
+    "largest_city": "Billings",
+    "ratification_or_admission": "Nov 8, 1889",
+    "representatives": 2
+  },
+  {
+    "id": 27,
+    "name": "Nebraska",
+    "postal_abbreviation": "NE",
+    "capital": "Lincoln",
+    "largest_city": "Omaha",
+    "ratification_or_admission": "Mar 1, 1867",
+    "representatives": 3
+  },
+  {
+    "id": 28,
+    "name": "Nevada",
+    "postal_abbreviation": "NV",
+    "capital": "Carson City",
+    "largest_city": "Las Vegas",
+    "ratification_or_admission": "Oct 31, 1864",
+    "representatives": 4
+  },
+  {
+    "id": 29,
+    "name": "New Hampshire",
+    "postal_abbreviation": "NH",
+    "capital": "Concord",
+    "largest_city": "Manchester",
+    "ratification_or_admission": "Jun 21, 1788",
+    "representatives": 2
+  },
+  {
+    "id": 30,
+    "name": "New Jersey",
+    "postal_abbreviation": "NJ",
+    "capital": "Trenton",
+    "largest_city": "Newark",
+    "ratification_or_admission": "Dec 18, 1787",
+    "representatives": 12
+  },
+  {
+    "id": 31,
+    "name": "New Mexico",
+    "postal_abbreviation": "NM",
+    "capital": "Santa Fe",
+    "largest_city": "Albuquerque",
+    "ratification_or_admission": "Jan 6, 1912",
+    "representatives": 3
+  },
+  {
+    "id": 32,
+    "name": "New York",
+    "postal_abbreviation": "NY",
+    "capital": "Albany",
+    "largest_city": "New York City",
+    "ratification_or_admission": "Jul 26, 1788",
+    "representatives": 26
+  },
+  {
+    "id": 33,
+    "name": "North Carolina",
+    "postal_abbreviation": "NC",
+    "capital": "Raleigh",
+    "largest_city": "Charlotte",
+    "ratification_or_admission": "Nov 21, 1789",
+    "representatives": 14
+  },
+  {
+    "id": 34,
+    "name": "North Dakota",
+    "postal_abbreviation": "ND",
+    "capital": "Bismarck",
+    "largest_city": "Fargo",
+    "ratification_or_admission": "Nov 2, 1889",
+    "representatives": 1
+  },
+  {
+    "id": 35,
+    "name": "Ohio",
+    "postal_abbreviation": "OH",
+    "capital": "Columbus",
+    "largest_city": "Columbus",
+    "ratification_or_admission": "Mar 1, 1803",
+    "representatives": 15
+  },
+  {
+    "id": 36,
+    "name": "Oklahoma",
+    "postal_abbreviation": "OK",
+    "capital": "Oklahoma City",
+    "largest_city": "Oklahoma City",
+    "ratification_or_admission": "Nov 16, 1907",
+    "representatives": 5
+  },
+  {
+    "id": 37,
+    "name": "Oregon",
+    "postal_abbreviation": "OR",
+    "capital": "Salem",
+    "largest_city": "Portland",
+    "ratification_or_admission": "Feb 14, 1859",
+    "representatives": 6
+  },
+  {
+    "id": 38,
+    "name": "Pennsylvania",
+    "postal_abbreviation": "PA",
+    "capital": "Harrisburg",
+    "largest_city": "Philadelphia",
+    "ratification_or_admission": "Dec 12, 1787",
+    "representatives": 17
+  },
+  {
+    "id": 39,
+    "name": "Rhode Island",
+    "postal_abbreviation": "RI",
+    "capital": "Providence",
+    "largest_city": "Providence",
+    "ratification_or_admission": "May 29, 1790",
+    "representatives": 2
+  },
+  {
+    "id": 40,
+    "name": "South Carolina",
+    "postal_abbreviation": "SC",
+    "capital": "Columbia",
+    "largest_city": "Charleston",
+    "ratification_or_admission": "May 23, 1788",
+    "representatives": 7
+  },
+  {
+    "id": 41,
+    "name": "South Dakota",
+    "postal_abbreviation": "SD",
+    "capital": "Pierre",
+    "largest_city": "Sioux Falls",
+    "ratification_or_admission": "Nov 2, 1889",
+    "representatives": 1
+  },
+  {
+    "id": 42,
+    "name": "Tennessee",
+    "postal_abbreviation": "TN",
+    "capital": "Nashville",
+    "largest_city": "Nashville",
+    "ratification_or_admission": "Jun 1, 1796",
+    "representatives": 9
+  },
+  {
+    "id": 43,
+    "name": "Texas",
+    "postal_abbreviation": "TX",
+    "capital": "Austin",
+    "largest_city": "Houston",
+    "ratification_or_admission": "Dec 29, 1845",
+    "representatives": 38
+  },
+  {
+    "id": 44,
+    "name": "Utah",
+    "postal_abbreviation": "UT",
+    "capital": "Salt Lake City",
+    "largest_city": "Salt Lake City",
+    "ratification_or_admission": "Jan 4, 1896",
+    "representatives": 4
+  },
+  {
+    "id": 45,
+    "name": "Vermont",
+    "postal_abbreviation": "VT",
+    "capital": "Montpelier",
+    "largest_city": "Burlington",
+    "ratification_or_admission": "Mar 4, 1791",
+    "representatives": 1
+  },
+  {
+    "id": 46,
+    "name": "Virginia",
+    "postal_abbreviation": "VA",
+    "capital": "Richmond",
+    "largest_city": "Virginia Beach",
+    "ratification_or_admission": "Jun 25, 1788",
+    "representatives": 11
+  },
+  {
+    "id": 47,
+    "name": "Washington",
+    "postal_abbreviation": "WA",
+    "capital": "Olympia",
+    "largest_city": "Seattle",
+    "ratification_or_admission": "Nov 11, 1889",
+    "representatives": 10
+  },
+  {
+    "id": 48,
+    "name": "West Virginia",
+    "postal_abbreviation": "WV",
+    "capital": "Charleston",
+    "largest_city": "Charleston",
+    "ratification_or_admission": "Jun 20, 1863",
+    "representatives": 2
+  },
+  {
+    "id": 49,
+    "name": "Wisconsin",
+    "postal_abbreviation": "WI",
+    "capital": "Madison",
+    "largest_city": "Milwaukee",
+    "ratification_or_admission": "May 29, 1848",
+    "representatives": 8
+  },
+  {
+    "id": 50,
+    "name": "Wyoming",
+    "postal_abbreviation": "WY",
+    "capital": "Cheyenne",
+    "largest_city": "Cheyenne",
+    "ratification_or_admission": "Jul 10, 1890",
+    "representatives": 1
+  }
+]
